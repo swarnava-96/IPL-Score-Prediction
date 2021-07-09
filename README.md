@@ -34,7 +34,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── requirements.txt
 ```
 
-## Frontend Using Flask and HTML and CSS
+## Frontend Using Flask, HTML and CSS
 
 https://iplpredx.herokuapp.com/predict
 
