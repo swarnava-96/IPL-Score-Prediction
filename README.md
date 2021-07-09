@@ -22,14 +22,15 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-
+├──Static
 ├── templates
 │   ├── index.html
+    ├── result.html
 ├── Procfile
 ├── README.md
 ├── app.py
-├── Car Price Prediction model.ipynb
-├── random_forest_regression_model.pkl
+├── IPL model.ipynb
+├── first-innings-score-lr-model.pkl
 ├── requirements.txt
 ```
 
@@ -38,8 +39,10 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 https://iplpredx.herokuapp.com/predict
 
 ![image](https://user-images.githubusercontent.com/75041273/125139977-2aa37500-e12f-11eb-9f97-0dc5da69e7f8.png)
-![image](https://user-images.githubusercontent.com/75041273/125140057-5161ab80-e12f-11eb-8f33-d5849a3cc225.png)
+
 ![image](https://user-images.githubusercontent.com/75041273/125140079-5d4d6d80-e12f-11eb-86f5-6298b886fdcd.png)
+
+![image](https://user-images.githubusercontent.com/75041273/125140057-5161ab80-e12f-11eb-8f33-d5849a3cc225.png)
 
 
 
